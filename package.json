@@ -1,0 +1,18 @@
+{
+	"displayName": "Exposed Repo Name",
+	"name": "com.username.repository",
+	"version": "0.1.0",
+	"unity": "2019.3",
+	"description": "Repository description",
+	"keywords": ["unity", "UPM"],
+	"category": "Repository category",
+	"author": {
+		"name": "Your name",
+		"email": "Your email",
+		"url": "Your website"
+	},
+	"dependencies": {
+	},
+	"scopedRegistries": [
+	]
+}
